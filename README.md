@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Om Satarkar
 
-<!--
-**omvs54/omvs54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Full-Stack Web Developer | 📊 Data Science Enthusiast  
+🚀 Building scalable web apps | 📈 Learning new tech every day
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- HTML, CSS, JavaScript, React.js, Node.js, Express.js
+- MongoDB, SQL, REST APIs, Git & GitHub
+- Responsive Design, Bootstrap, Tailwind CSS
+- CI/CD, Docker basics, Cloud platforms (AWS, Azure)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Certifications
+- Full-Stack Web Development – Jyesta Corporate Entity & E-Cell HIT Roorkee
+- Data Science – ITVedant
+
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 📧 om.yourmail@example.com
+
+## 📌 Featured Projects
+- [AI Chatbox](https://github.com/omvs54/CodeAlpha-AIChatbox)
+- [Student Management System](https://github.com/omvs54/Student-Management-System)
+
+---
