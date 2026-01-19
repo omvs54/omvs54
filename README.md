@@ -9,12 +9,26 @@
 - Responsive Design, Bootstrap, Tailwind CSS
 - CI/CD, Docker basics, Cloud platforms (AWS, Azure)
 
-## 📚 Certifications
-- Full-Stack Web Development – Jyesta Corporate Entity & E-Cell HIT Roorkee
-- Data Science – ITVedant
+## 🏆 Certified Internships
 
+- **Cloud Computing Intern**  
+  *CodeAlpha*  
+  Completed certified internship focused on deploying scalable cloud solutions and understanding cloud architecture fundamentals.
+
+- **Generative AI Intern**  
+  *Google*  
+  Completed certified internship exploring GenAI models, prompt engineering, and real-world applications of LLMs.
+
+## 💼 Ongoing Training
+
+- **Full-Stack Web Development**  
+  *Jyesta Corporate Entity & E-Cell HIT Roorkee*
+
+- **Data Science**  
+  *ITVedant*
+  
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](www.linkedin.com/in/om-satarkar-2579392b8)
 - 📧 omvs54@gmail.com
 
 ## 📌 Featured Projects
