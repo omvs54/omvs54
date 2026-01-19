@@ -15,7 +15,7 @@
 
 ## 🌐 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 om.yourmail@example.com
+- 📧 omvs54@gmail.com
 
 ## 📌 Featured Projects
 - [AI Chatbox](https://github.com/omvs54/CodeAlpha-AIChatbox)
