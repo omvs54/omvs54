@@ -34,6 +34,6 @@
 ## 📌 Featured Projects
 - [AI Chatbox](https://github.com/omvs54/CodeAlpha-AIChatbox)
 - [Student Management System](https://github.com/omvs54/Student-Management-System)
-- [Pomodoro-focus-timer](https://github.com/omvs54/pomodoro-focus-timer.git))
+- [Pomodoro-focus-timer](https://github.com/omvs54/pomodoro-focus-timer.git)
 
 ---
