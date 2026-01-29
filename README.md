@@ -22,7 +22,7 @@
 ## 💼 Ongoing Training
 
 - **Full-Stack Web Development**  
-  *Jyesta Corporate Entity & E-Cell HIT Roorkee*
+  *Jyesta Corporate Entity & E-Cell IIT Roorkee*
 
 - **Data Science**  
   *ITVedant*
