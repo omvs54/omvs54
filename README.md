@@ -28,7 +28,7 @@
   *ITVedant*
   
 ## 🌐 Connect with me
-- [LinkedIn](www.linkedin.com/in/om-satarkar-2579392b8)
+- 🔗 [LinkedIn](www.linkedin.com/in/om-satarkar-2579392b8)
 - 📧 omvs54@gmail.com
 
 ## 📌 Featured Projects
