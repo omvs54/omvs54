@@ -19,7 +19,7 @@
   *Google*  
   Completed certified internship exploring GenAI models, prompt engineering, and real-world applications of LLMs.
 
-  - **Data Science**  
+- **Data Science**  
   *ITVedant*
   Completed certified internship in DataScience and learned POWERBI fuctionality.
 
