@@ -19,13 +19,15 @@
   *Google*  
   Completed certified internship exploring GenAI models, prompt engineering, and real-world applications of LLMs.
 
+  - **Data Science**  
+  *ITVedant*
+  Completed certified internship in DataScience and learned POWERBI fuctionality.
+
 ## 💼 Ongoing Training
 
 - **Full-Stack Web Development**  
   *Jyesta Corporate Entity & E-Cell IIT Roorkee*
 
-- **Data Science**  
-  *ITVedant*
   
 ## 🌐 Connect with me
 - 🔗 [LinkedIn](www.linkedin.com/in/om-satarkar-2579392b8)
